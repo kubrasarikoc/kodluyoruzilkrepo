@@ -7,3 +7,4 @@ git clone https://github.com/kubrasrkc/kodluyoruzilkrepo.git
 ```
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
+ 
